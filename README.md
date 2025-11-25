@@ -48,15 +48,6 @@ My Own StartUp Agency
 - **Tech**: JavaScript, HTML5, CSS3
 - **Status**: ✅ Completed
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Hadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-</div>
 
 ## 🏆 Achievements
 
