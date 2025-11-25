@@ -1,8 +1,6 @@
 # Techno Snag Repository
 
-Welcome to the **Techno Snag** repository! 🚀
-
-This repository is dedicated to hosting and saving files, code, and other resources shared on my **YouTube channel** [Techno Snag](https://www.youtube.com/technosnag). Here, you'll find all the materials you need to follow along with my tutorials and projects.
+Welcome to the **Hadi Khalid** Github! 🚀
 
 ## 💸 Support My Work 🤝	
 
