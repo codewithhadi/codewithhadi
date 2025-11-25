@@ -1,20 +1,89 @@
-![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Hadi Khalid</h1>
-<h3 align="center">A Passionated Full Stack Developer From Pakistan</h3>
+# Techno Snag Repository
 
-- 👯 I’m looking to collaborate on **Every Small Brand Who Have Big Dreams**
+Welcome to the **Techno Snag** repository! 🚀
 
-- 📫 How to reach me **abdulhadikhalid111@gmail.com**
+This repository is dedicated to hosting and saving files, code, and other resources shared on my **YouTube channel** [Techno Snag](https://www.youtube.com/technosnag). Here, you'll find all the materials you need to follow along with my tutorials and projects.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hadi khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hadi khalid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hadi khalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadi khalid" height="30" width="40" /></a>
-<a href="https://fb.com/abdul hadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul hadi" height="30" width="40" /></a>
-<a href="https://instagram.com/abdul hadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul hadi" height="30" width="40" /></a>
+## 💸 Support My Work 🤝	
+
+If you’ve found my content helpful — tutorials, code, or videos — and want to say **thanks**, here are a few ways to support 💖:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/technosnag)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/alamimran613/)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/imranalam)
+[![Donate via UPI](https://img.shields.io/badge/Donate-UPI-4CAF50?style=for-the-badge&logo=googlepay&logoColor=white)](https://github.com/alamimran613/Donations/blob/main/README.md)
+
+## 📂 Repository Contents
+
+- **Code**: All source code from my videos.
+- **Files**: Any files or datasets used in my tutorials.
+- **Resources**: Additional resources, links, and references.
+
+## 🔗 Connect with Techno Snag
+
+Stay updated with the latest tutorials and projects by subscribing to my YouTube channel.
+
+[![Techno Snag YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/technosnag) [![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag)
+
+
+## 🤝 Contributing to Techno Snag
+
+### 📌 Before Contributing Read ➡️ [Contribution Guidelines](./CONTRIBUTING.md)
+
+Want to contribute? Awesome! You can help improve this repository by:
+
+- Forking the repository and submitting a pull request (PR) with your improvements.
+- Fixing issues, optimizing code, or adding useful comments.
+- Sharing your own scripts, tools, or enhancements.
+
+### 📌 How to Contribute
+
+1. **Fork** this repository: [Techno Snag Repository](https://github.com/alamimran613/TechnoSnag).
+2. **Clone** your fork:
+   ```bash
+   git clone https://github.com/alamimran613/TechnoSnag.git
+   ```  
+3. **Create a new branch** in your fork:
+   ```bash
+   git checkout -b feature-branch
+   ```  
+4. **Make your changes** inside the relevant directory.
+
+5. **Commit and push** your changes:
+   ```bash
+   git add .
+   git commit -m "Added new feature or fixed issue #issue_number"
+   git push origin feature-branch
+   ```  
+6. **Create a Pull Request (PR)** to merge your changes into the `main` branch of this repository.
+
+### 📌 When to Create an Issue?
+
+- If you're fixing a **bug** or **adding a new feature**, create an **issue first** to discuss it.
+- If it’s a **small fix** (e.g., typos, minor improvements), you can directly submit a PR.
+
+💡 **Note**: All contributions will be reviewed before merging. Please ensure your changes follow best practices.
+
+## ⭐ Star This Repository!
+
+If you find the content helpful, please consider starring this repository. Your support helps me to continue creating high-quality content.
+
+## 👍 Like, Share, and Subscribe!
+
+If you find the content helpful, don't forget to **Like**, **Share**, and **Subscribe** to support the channel and stay informed about new videos.
+
+Thank you for visiting the Techno Snag repository! Happy coding! 🎉
+
+## 📄 License
+
+🛡️ License: [MIT](LICENSE) — Free to use with credit to **Imran Alam / TechnoSnag**
+
+You can use these codes for commercial use in your project by giving a shoutout in your content and description when you create a video or write a blog post.
+
+---
+
+<p align="center">
+  <a href="https://www.youtube.com/technosnag">
+    <img src="https://img.shields.io/badge/Subscribe-Techno%20Snag-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Techno Snag on YouTube">
+  </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
-
-
