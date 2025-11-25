@@ -32,22 +32,20 @@ Hey there! I'm **Hadi Khalid**, a passionate 13-year-old full stack developer fr
 
 ## 🌟 Featured Projects
 
-### 🎯 Expense Manager Pro
+### 🎯 Expense Manager
 A complete expense tracking application with Firebase integration
 - **Tech**: React, Firebase, CSS3
 - **Features**: Real-time data sync, user authentication, expense analytics
 - **Status**: ✅ Completed
 
-### 🔥 Chat Application
-Real-time chat application with multiple rooms
-- **Tech**: React, Node.js, Socket.io
-- **Features**: Real-time messaging, multiple rooms, user presence
-- **Status**: 🚧 In Progress
+### 🔥 Portfolio
+Cool Project For My Self Full Of Animations And Colors
+- **Tech**: HTML5, CSS3, JavaScript
+- **Status**: ✅ Completed
 
-### 🎮 Game Development
-Various interactive browser games
-- **Tech**: JavaScript, HTML5 Canvas, CSS3
-- **Features**: Interactive gameplay, score tracking, responsive design
+### 🎮 Hadrix Group
+My Own StartUp Agency
+- **Tech**: JavaScript, HTML5, CSS3
 - **Status**: ✅ Completed
 
 ## 📈 GitHub Stats
@@ -71,24 +69,22 @@ Various interactive browser games
 
 I'm always excited to collaborate on interesting projects and learn from fellow developers!
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cpdewithhadi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](codewithhadi.github.io/Portfolio/)
 
 ## 💡 What I'm Learning
 
 - 🔥 **Advanced React Patterns**
-- 🚀 **Backend Development with Node.js**
 - 📱 **Mobile App Development**
 - 🎨 **UI/UX Design Principles**
+- 🔥 **Generative Ai**
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2026
 
-- [ ] Contribute to 10+ open source projects
+- [ ] Contribute to 30+ open source projects
 - [ ] Build a full-stack SaaS application
 - [ ] Learn mobile app development
-- [ ] Master advanced JavaScript concepts
+- [ ] Learn Generative AI
 - [ ] Participate in hackathons
 
 ## 📊 Weekly Development Activity
