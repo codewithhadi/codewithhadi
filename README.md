@@ -1,87 +1,101 @@
-# Techno Snag Repository
+# Hadi Khalid - 13 Year Old Full Stack Developer 🚀
 
-Welcome to the **Hadi Khalid** Github! 🚀
+<div align="center">
 
-## 💸 Support My Work 🤝	
+![Age](https://img.shields.io/badge/Age-13-blue?style=for-the-badge)
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-React%20%7C%20Node%20%7C%20Firebase-green?style=for-the-badge)
+![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge)
 
-If you’ve found my content helpful — tutorials, code, or videos — and want to say **thanks**, here are a few ways to support 💖:
+</div>
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/technosnag)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/alamimran613/)
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/imranalam)
-[![Donate via UPI](https://img.shields.io/badge/Donate-UPI-4CAF50?style=for-the-badge&logo=googlepay&logoColor=white)](https://github.com/alamimran613/Donations/blob/main/README.md)
+## 👋 About Me
 
-## 📂 Repository Contents
+Hey there! I'm **Hadi Khalid**, a passionate 13-year-old full stack developer from Pakistan. I love creating amazing web applications and contributing to open source projects. Despite my young age, I've already worked on numerous projects and made significant contributions to the developer community.
 
-- **Code**: All source code from my videos.
-- **Files**: Any files or datasets used in my tutorials.
-- **Resources**: Additional resources, links, and references.
+## 🛠️ Tech Stack
 
-## 🔗 Connect with Techno Snag
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Stay updated with the latest tutorials and projects by subscribing to my YouTube channel.
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-[![Techno Snag YouTube Channel](https://img.shields.io/badge/YouTube-Techno%20Snag-red?logo=youtube&logoColor=white)](https://www.youtube.com/technosnag) [![Techno Snag Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-pink?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag) [![Techno Snag Facebook](https://img.shields.io/badge/Facebook-Techno%20Snag-blue?logo=facebook&logoColor=white)](https://www.facebook.com/technosnag) [![Techno Snag Twitter](https://img.shields.io/badge/Twitter-Techno%20Snag-lightblue?logo=twitter&logoColor=white)](https://twitter.com/technosnag)
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 🌟 Featured Projects
 
-## 🤝 Contributing to Techno Snag
+### 🎯 Expense Manager Pro
+A complete expense tracking application with Firebase integration
+- **Tech**: React, Firebase, CSS3
+- **Features**: Real-time data sync, user authentication, expense analytics
+- **Status**: ✅ Completed
 
-### 📌 Before Contributing Read ➡️ [Contribution Guidelines](./CONTRIBUTING.md)
+### 🔥 Chat Application
+Real-time chat application with multiple rooms
+- **Tech**: React, Node.js, Socket.io
+- **Features**: Real-time messaging, multiple rooms, user presence
+- **Status**: 🚧 In Progress
 
-Want to contribute? Awesome! You can help improve this repository by:
+### 🎮 Game Development
+Various interactive browser games
+- **Tech**: JavaScript, HTML5 Canvas, CSS3
+- **Features**: Interactive gameplay, score tracking, responsive design
+- **Status**: ✅ Completed
 
-- Forking the repository and submitting a pull request (PR) with your improvements.
-- Fixing issues, optimizing code, or adding useful comments.
-- Sharing your own scripts, tools, or enhancements.
+## 📈 GitHub Stats
 
-### 📌 How to Contribute
+<div align="center">
 
-1. **Fork** this repository: [Techno Snag Repository](https://github.com/alamimran613/TechnoSnag).
-2. **Clone** your fork:
-   ```bash
-   git clone https://github.com/alamimran613/TechnoSnag.git
-   ```  
-3. **Create a new branch** in your fork:
-   ```bash
-   git checkout -b feature-branch
-   ```  
-4. **Make your changes** inside the relevant directory.
+![Hadi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-5. **Commit and push** your changes:
-   ```bash
-   git add .
-   git commit -m "Added new feature or fixed issue #issue_number"
-   git push origin feature-branch
-   ```  
-6. **Create a Pull Request (PR)** to merge your changes into the `main` branch of this repository.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-### 📌 When to Create an Issue?
+</div>
 
-- If you're fixing a **bug** or **adding a new feature**, create an **issue first** to discuss it.
-- If it’s a **small fix** (e.g., typos, minor improvements), you can directly submit a PR.
+## 🏆 Achievements
 
-💡 **Note**: All contributions will be reviewed before merging. Please ensure your changes follow best practices.
+- 🔥 **Multiple Projects Completed** - Built and deployed various web applications
+- 🌟 **Open Source Contributions** - Actively contributing to open source projects
+- 🚀 **Self-Taught Developer** - Learned programming through online resources and practice
+- 💡 **Problem Solver** - Strong analytical and problem-solving skills
 
-## ⭐ Star This Repository!
+## 📫 Let's Connect!
 
-If you find the content helpful, please consider starring this repository. Your support helps me to continue creating high-quality content.
+I'm always excited to collaborate on interesting projects and learn from fellow developers!
 
-## 👍 Like, Share, and Subscribe!
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
-If you find the content helpful, don't forget to **Like**, **Share**, and **Subscribe** to support the channel and stay informed about new videos.
+## 💡 What I'm Learning
 
-Thank you for visiting the Techno Snag repository! Happy coding! 🎉
+- 🔥 **Advanced React Patterns**
+- 🚀 **Backend Development with Node.js**
+- 📱 **Mobile App Development**
+- 🎨 **UI/UX Design Principles**
 
-## 📄 License
+## 🎯 Goals for 2024
 
-🛡️ License: [MIT](LICENSE) — Free to use with credit to **Imran Alam / TechnoSnag**
+- [ ] Contribute to 10+ open source projects
+- [ ] Build a full-stack SaaS application
+- [ ] Learn mobile app development
+- [ ] Master advanced JavaScript concepts
+- [ ] Participate in hackathons
 
-You can use these codes for commercial use in your project by giving a shoutout in your content and description when you create a video or write a blog post.
+## 📊 Weekly Development Activity
 
----
-
-<p align="center">
-  <a href="https://www.youtube.com/technosnag">
-    <img src="https://img.shields.io/badge/Subscribe-Techno%20Snag-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Subscribe to Techno Snag on YouTube">
-  </a>
-</p>
+```text
+JavaScript   ████████████████████ 85%
+React        ████████████████ 75%
+Node.js      ████████████ 60%
+Firebase     ██████████ 55%
+MongoDB      ████████ 45%
